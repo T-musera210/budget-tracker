@@ -2,7 +2,7 @@
 
  💰Budget Tracker
 
-This is a PHP web application designed to help users track their daily expenses after registration and login.
+This is a PHP web application designed to help users track their expenses after registration and login.
 
  ⚙️Setup Instructions
 
