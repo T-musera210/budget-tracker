@@ -1,9 +1,11 @@
 # budget-tracker
 
- Budget Tracker
+ 💰Budget Tracker
+
 This is a PHP web application designed to help users track their daily expenses after registration and login.
 
- Setup Instructions
+ ⚙️Setup Instructions
+
 This project requires a PHP and MySQL environment (e.g., XAMPP or MAMP).
 
 1. Database Setup
